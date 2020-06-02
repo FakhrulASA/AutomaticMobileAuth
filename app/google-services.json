@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524013891034",
+    "firebase_url": "https://billpay-8b391.firebaseio.com",
+    "project_id": "billpay-8b391",
+    "storage_bucket": "billpay-8b391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524013891034:android:15ae47ad8c64dda30324e3",
+        "android_client_info": {
+          "package_name": "com.example.billpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524013891034-mg4q67501r77q2f3nvgs0s6cdpi5pgcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billpay",
+            "certificate_hash": "d7c05b66e0492f0ba7a4ac5bac7a12691a56caa9"
+          }
+        },
+        {
+          "client_id": "524013891034-96mc3bffu1l2sbq9mrctj1vr56bv53ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUhcjBkdS-34qYxRt9itNEzb3fJNehjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524013891034-96mc3bffu1l2sbq9mrctj1vr56bv53ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
